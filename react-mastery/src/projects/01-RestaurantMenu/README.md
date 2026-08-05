@@ -106,6 +106,10 @@ A simple React application that displays a restaurant menu using reusable compon
 ```
 
 ---
+## Commit
+
+```bash
+git commit -m "Build Restaurant Menu using props, map, conditional rendering and useState"
 
 ## 🔥 Next Project
 
